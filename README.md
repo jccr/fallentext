@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/v/fallentext)](https://www.npmjs.com/package/fallentext)
+[![Node.js CI](https://github.com/jccr/fallentext/workflows/Node.js%20CI/badge.svg)](https://github.com/jccr/fallentext/actions?query=workflow%3A%22Node.js+CI%22)
+
 # 🍂fallentext
 A mimic implementation of [`HTMLElement.innerText`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText) 
 
