@@ -1,0 +1,25 @@
+{
+  "name": "fallentext",
+  "version": "1.0.0",
+  "description": "A mimic implementation of [`HTMLElement.innerText`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText)",
+  "main": "fallentext.js",
+  "files": [],
+  "type": "module",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jccr/fallentext.git"
+  },
+  "author": "Juan Carlos Corona Romero <c@rlos.email>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jccr/fallentext/issues"
+  },
+  "homepage": "https://github.com/jccr/fallentext#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^26.6.3"
+  }
+}
