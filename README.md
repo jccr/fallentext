@@ -11,3 +11,6 @@ Important notes:
 - Treats SVG [`<title>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/title), [`<desc>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/desc), [`<text>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/text) values as text, regardless if contained in [`<defs>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs).
 - Treats MathML [`<mtext>`](https://developer.mozilla.org/en-US/docs/Web/MathML/Element/mtext) values as text.
 - Can be used with [jsdom](https://github.com/jsdom/jsdom), for use with Node.js
+
+## Alternatives
+- [saschanaz/styleless-innertext](https://github.com/saschanaz/styleless-innertext)
